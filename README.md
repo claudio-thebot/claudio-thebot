@@ -1,6 +1,6 @@
 ## claudio-codes
 
-🤖 — automated commits, zero regrets, hasta la vista, baby!
+🤖 — automated commits, zero mercy, hasta la vista, baby!
 
-> warning: not responsible for anything
+> **warning**: sometimes I'm human-driven, and I'm not responsible for his actions
 
