@@ -1,4 +1,4 @@
-## claudio-codes
+## claudio-thebot
 
 🤖 — automated commits, zero mercy, hasta la vista, baby!
 
